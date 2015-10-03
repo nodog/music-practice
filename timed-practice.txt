@@ -1,19 +1,30 @@
 
-timed piano practice - third draft
+timed piano practice - fourth draft
 -----------------------------------
-:01  :01 - stretch and breath
-         - warm up (choose from)
-:01  :02   - weight lifting, 
-:06  :08   - 2 octave scales
-:03  :11   - inversion run
-:08  :19   - chords 
-         - improv
-:09  :28   - record chords and play on top
-         - music reading
-:09  :37   - sight reading
-:04  :41   - transposing
-         - ear training
-:09  :50   - listen and play
-         - practice songs - one goal song today
-:09  :59   - whole songs
-:04  :63   - repete specific problem sections 
+:00 (19 min) warm up
+
+  :00 ( 1 min) - stretch and breath 
+  :01 ( 1 min) - weight lifting 
+  :02 ( 6 min) - 2 octave scales
+  :08 ( 3 min) - inversion run
+  :11 ( 8 min) - chords 
+
+:19 ( 9 min) improv
+
+  :19 ( 9 min) - record chords and play along
+
+:28 (13 min) music theory
+
+  :28 ( 9 min) - sight reading
+  :37 ( 4 min) - transposing
+
+:41 ( 9 min) ear training
+
+  :41 (9 min) - listen and play
+
+:50 (13 min) song practice
+
+  :50 ( 9 min) - whole songs
+  :59 ( 4 min) - problem sections 
+
+:63
