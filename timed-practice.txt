@@ -1,30 +1,30 @@
-
-timed piano practice - fourth draft
+timed piano practice - fifth draft
 -----------------------------------
-:00 (19 min) warm up
+:00 (10 min) warm up + scale
 
-  :00 ( 1 min) - stretch and breath 
-  :01 ( 1 min) - weight lifting 
-  :02 ( 6 min) - 2 octave scales
-  :08 ( 3 min) - inversion run
-  :11 ( 8 min) - chords 
+  :00 ( 1 min) - stretch and breath
+  :01 ( 1 min) - weight lifting
+  :02 ( 8 min) - DOY % 3
+               = O: 2 octave scales
+                 1: contradictory motion
+                 2: hanon
 
-:19 ( 9 min) improv
+:10 (10 min) chord practice
+  :10 ( 2 min) broken 7th chords
+               DOM % 2 = hand
+               DOY % 2 = direction
+  :12 ( 8 min) chords for the day (song or blues)
 
-  :19 ( 9 min) - record chords and play along
+:20 (10 min) improv + independence
+  :20 (10 min) improv over chords
 
-:28 (13 min) music theory
+:30 (10 min) ear training
+  :30 (10 min) - learn and transcribe a song by ear
 
-  :28 ( 9 min) - sight reading
-  :37 ( 4 min) - transposing
+:40 (10 min) music theory
+  :40 (10 min) - learn a song by sheet music
 
-:41 ( 9 min) ear training
+:50 (10 min) song practice
+  :50 (10 min) - learn a song by heart
 
-  :41 (9 min) - listen and play
-
-:50 (13 min) song practice
-
-  :50 ( 9 min) - whole songs
-  :59 ( 4 min) - problem sections 
-
-:63
+:60 end
