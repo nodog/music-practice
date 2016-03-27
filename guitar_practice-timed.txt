@@ -1,4 +1,4 @@
-timed guitar practice - first draft
+timed guitar practice - draft 2
 -----------------------------------
 :00 (6 min) warm up + scale
 
@@ -6,15 +6,19 @@ timed guitar practice - first draft
   :01 ( 5 min) - DOY % 5 = scale form
 
 :06 (3 min) chord form practice
-  :06 (3 min) - strum-pick-strum on current chords
+  :06 (3 min) - strum-pick-strum on chords
+              - E A D Em Am Dm (C B7 G7)
 
-:09 (4 min) 1 min changes
-  :09 (4 min) - 1 min changes on 3 most current chords
+:09 (5 min) 1 min changes
+  :09 (5 min) - 1 min changes on chords
+              - Am-E Am-Dm A-Dm E-D Em-D
 
-:13 (5 min) family song practice
-  :13 (5 min) - family time song practice
+:14 (5 min) family song practice
+  :14 (5 min) - family time song practice
 
-:18 (5 min) barre chords
-  :18 (5 min) - common barre chords
+:19 (5 min) barre chords
+  :19 (5 min) - common barre chords
 
-:23 - end
+:24 - end
+
+TAP YOUR FOOT!
