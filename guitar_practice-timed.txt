@@ -1,11 +1,12 @@
-timed guitar practice - draft 3
+timed guitar practice - draft 4
 -----------------------------------
 untimed - stretch and breath
 untimed - tune up
 
 :00 (5 min) warm up scale
 
-  :00 ( 5 min) - DOY % 5 = scale form
+  :00 ( 3 min) - DOY % 5 = scale form
+  :03 ( 2 min) - 7-8-9-10 finger stretch exercise
 
 :05 (3 min) chord form practice
   :05 (3 min) - strum-pick-strum on chords
