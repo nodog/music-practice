@@ -1,4 +1,4 @@
-timed guitar practice - draft 5
+timed guitar practice - draft 6
 -----------------------------------
 untimed - stretch and breath
 untimed - tune up
@@ -10,15 +10,11 @@ untimed - tune up
 
 :05 (3 min) chord form practice
   :05 (3 min) - strum-pick-strum on chords
-              - B7 E E7 A A7 D D7 G G7 C C7 F Fmaj7 Em Am Dm
+              - B7 E E7 A A7 D D7 G G7 C C7 F Fmaj7
+                Em Am Dm
 
 :08 (5 min) 1 min changes
-  :08 (5 min) - 1 min changes on chords (replace when >60)
-              DOY % 4 = change set
-                1 = Am-Dm Dm-A       C7-G7 E7-A       Fmaj7-A
-                2 = C-Am  C-A        C-G   G-E        G-D
-                3 = C-G7  C7-Fmaj7   E-B7  D-A(barre) E7-A(barre)
-                4 = F-C   F-E(2-3-4) F-D   F-Am       F-G
+  :08 (5 min) - 1 min change app w/air changes
 
 :13 (5 min) family song practice - include rhythm
   :13 (5 min) - family time song practice
