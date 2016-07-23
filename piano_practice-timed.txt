@@ -9,45 +9,53 @@ timed piano practice - fifth draft
                  1: contradictory motion
                  2: hanon
 
-:10 (10 min) chord practice
-  :10 ( 2 min) DOY % 3 = broken 7th chords, triad run, 7th run
-               DOY % 2 = direction
-               DOY % 3 = chord type triad, 7th, 9th
+:10 (10 min) chord practice (all through inversions)
+  :10 ( 4 min) DOY % 7 = full chords same inv
+                         same direction arpeggio
+                         run (no invs)
+                         full chords diff inv
+                         up/down arpeggio
+                         full chords diff inv
+                         reverse direction arpeggio
+               DOM % 2 = starting direction
+               DOM % 7 = chord type = triad, 7th, sus4, 2nd, 4th, 6th, 9th
 
-  :12 ( 8 min) chords for the day (song or blues)
-               - different triad inversions on each hand
-               - rhythm across the notes of both hands
-               - 7th chords both same
-               - 7th chords lh 1, rh 3-5-7 or 3-7
-               - 9th chords
+  :14 ( 8 min) LH focus - chords for the day (song or blues)
+               DOY % 16 =
+                1 - LH/RH - sustain same triad chord
+                2 - LH play root, then other triad notes alternating
+                3 - LH Alberti bass - bottom, top, middle, top (any triad inversion)
+                4 - LH/RH - different triad inversions on each hand
+                5 - LH swing bass (pinky low 8vb root, followed by chord - any inversion)
+                6 - LH arpeggios - root, 5th, 3rd-8va, 5th
+                7 - LH/RH - rhythm across the notes of both hands
+                8 - LH alternating bass (swing bass, but alternate b/w root and 5th w/pinky)
+                9 - LH 6th chord - break up with root, 5th, 6th, 5th
+               10 - LH/RH - 7th chords both same
+               11 - LH - boogie pattern - 1 8 3 4 4+ 5-8vb
+               12 - LH - break up with root + 5th, m3rd, 3rd
+               13 - LH/RH - 7th chords - LH 1-1 or 1-5, RH 3-5-7 or 3-7
+               14 - LH 6th chord - break up with root, 6th, 5th, 6th
+               15 - LH - classic boogie - 1 3 5 6 m7 6 5 3 1 - broken octaves
+               16 - LH/RH - 9th chords - LH 1-1 or 1-5, RH 3-5-7-9 or 3-7-9
 
-               - LH sustain chord
-               - LH sustain chord
-               - LH play root, then other notes alternating
-               - LH Alberti bass - bottom, top, middle, top (any inversion)
-               - LH swing bass (pinky low 8vb root, followed by chord - any inversion)
-               - LH alternating bass (swing bass, but alternate b/w root and 5th w/pinky)
-               - LH arpeggios - root, 5th, 3rd-8va, 5th
-               - LH 6th chord - break up with root, 5th, 6th, 5th
-               - LH 6th chord - break up with root, 6th, 5th, 6th
-               - LH - break up with root + 5th, m3rd, 3rd
-               - LH - boogie pattern - 1 8 3 4 4+ 5-8vb
-               - LH - classic boogie - 1 3 5 6 m7 6 5 3 1 - broken octaves
-
-               - RH - repeat chord up the keyboard through inversions
-               - RH - rat chords up kybd ins w straddle (leave out middle note)
-               - RH - rpt chords up kybd invs - 2/1 breakup (alternate bottom note with top 2)
-               - RH - rat chords up kybd ins - 3/1 breakup  (alternate bottom note with top 3 for 4 note chords)
-               - RH - make a run out of the chord
-
-:20 (10 min) improv + independence
-  :20 (10 min) improv over chords
+:22 ( 8 min) RH focus - improv + independence
+  :22 ( 8 min) DOY % 9 = 1 improv over chords
+                1 - RH - improv minor pentatonic
+                2 - RH - rpt chord up the keyboard through inversions
+                3 - RH - improv a melodic theme
+                4 - RH - rpt chord up kybd invs w straddle (leave out middle note)
+                5 - RH - vocal melody
+                6 - RH - rpt chord up kybd invs w 2/1 breakup (alternate bottom note with top 2)
+                7 - RH - improv mostly w/in the chord
+                8 - RH - rpt chord up kybd invs w 3/1 breakup  (alternate bottom note with top 3 for 4 note chords)
+                9 - RH - make a run out of the chord
 
 :30 (10 min) ear training
   :30 (10 min) - learn and transcribe a song by ear
 
-:40 (10 min) music theory
-  :40 (10 min) - learn a song by sheet music
+:40 (10 min) site reading
+  :40 (10 min) - play a song from music w/o
 
 :50 (10 min) song practice
   :50 (10 min) - learn a song by heart
