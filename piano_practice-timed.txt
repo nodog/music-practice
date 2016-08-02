@@ -1,4 +1,4 @@
-timed piano practice - sixth draft
+timed piano practice - 7th draft
 -----------------------------------
 :00 (10 min) warm up + scale
 
@@ -18,18 +18,22 @@ timed piano practice - sixth draft
                          5: full chords diff inv
                          6: reverse direction arpeggio
                DOM % 2  = starting direction O:right 1:left
-               DOM % 10 = chord type = O:7th 1:triad 2:dom7th 3:aug 4:4th 5:dim 6:6th 7:sus4 8:2nd 9:9th
+               DOM % 10 = chord type = O:7th 1:triad 2:dom7th 3:aug 4:4th
+                                       5:dim 6:6th   7:sus4   8:2nd 9:9th
 
   :14 ( 8 min) LH focus - chords for the day (song or blues)
                DOY % 16 =
                 0 - LH/RH - sustain same triad chord
                 1 - LH play root, then other triad notes alternating
-                2 - LH Alberti bass - bottom, top, middle, top (any triad inversion)
+                2 - LH Alberti bass - bottom, top, middle, top
+                    (any triad inversion)
                 3 - LH/RH - different triad inversions on each hand
-                4 - LH swing bass (pinky low 8vb root, followed by chord - any inversion)
+                4 - LH swing bass
+                    (pinky low 8vb root, followed by chord - any inversion)
                 5 - LH arpeggios - root, 5th, 3rd-8va, 5th
                 6 - LH/RH - rhythm across the notes of both hands
-                7 - LH alternating bass (swing bass, but alternate b/w root and 5th w/pinky)
+                7 - LH alternating bass
+                    (swing bass, but alternate b/w root and 5th w/pinky)
                 8 - LH 6th chord - break up with root, 5th, 6th, 5th
                 9 - LH/RH - 7th chords both same
                10 - LH - boogie pattern - 1 8 3 4 4+ 5-8vb
@@ -44,11 +48,14 @@ timed piano practice - sixth draft
                 0 - RH - improv minor pentatonic
                 1 - RH - rpt chord up the keyboard through inversions
                 2 - RH - improv a melodic theme
-                3 - RH - rpt chord up kybd invs w straddle (leave out middle note)
+                3 - RH - rpt chord up kybd invs w straddle
+                         (leave out middle note)
                 4 - RH - vocal melody
-                5 - RH - rpt chord up kybd invs w 2/1 breakup (alternate bottom note with top 2)
+                5 - RH - rpt chord up kybd invs w 2/1 breakup
+                         (alternate bottom note with top 2)
                 6 - RH - improv mostly w/in the chord
-                7 - RH - rpt chord up kybd invs w 3/1 breakup  (alternate bottom note with top 3 for 4 note chords)
+                7 - RH - rpt chord up kybd invs w 3/1 breakup
+                         (alternate bottom note with top 3 for 4 note chords)
                 8 - RH - make a run out of the chord
 
 :30 (10 min) ear training
