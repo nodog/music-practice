@@ -1,16 +1,14 @@
 timed piano practice - 7th draft
 -----------------------------------
-:00 (10 min) warm up + scale
-
-  :00 ( 1 min) - stretch and breath
-  :01 ( 1 min) - weight lifting
-  :02 ( 8 min) - DOY % 3
+:00 (10 min) warm up + scale - stretch and breath before
+  :00 ( 1 min) - weight lifting
+  :01 ( 9 min) - DOY % 3
                = O: 2 octave scales
                  1: contradictory motion
                  2: hanon exercise DOM % 6
 
 :10 (10 min) chord practice (all through inversions)
-  :10 ( 4 min) DOY % 7 = O: full chords same inv
+  :10 ( 6 min) DOY % 7 = O: full chords same inv
                          1: same direction arpeggio
                          2: run (no invs)
                          3: full chords diff inv
@@ -21,7 +19,7 @@ timed piano practice - 7th draft
                DOM % 10 = chord type = O:7th 1:triad 2:dom7th 3:aug 4:4th
                                        5:dim 6:6th   7:sus4   8:2nd 9:9th
 
-  :14 ( 8 min) LH focus - chords for the day (song or blues)
+  :16 ( 7 min) LH focus - chords for the day (song or blues)
                DOY % 16 =
                 0 - LH/RH - sustain same triad chord
                 1 - LH play root, then other triad notes alternating
@@ -43,8 +41,8 @@ timed piano practice - 7th draft
                14 - LH - classic boogie - 1 3 5 6 m7 6 5 3 1 - broken octaves
                15 - LH/RH - 9th chords - LH 1-1 or 1-5, RH 3-5-7-9 or 3-7-9
 
-:22 ( 8 min) RH focus - improv + independence
-  :22 ( 8 min) DOY % 9 =
+:23 ( 7 min) RH focus - improv + independence
+  :23 ( 7 min) DOY % 9 =
                 0 - RH - improv minor pentatonic
                 1 - RH - rpt chord up the keyboard through inversions
                 2 - RH - improv a melodic theme
@@ -58,13 +56,8 @@ timed piano practice - 7th draft
                          (alternate bottom note with top 3 for 4 note chords)
                 8 - RH - make a run out of the chord
 
-:30 (10 min) ear training
-  :30 (10 min) - learn and transcribe a song by ear
+:30 (10 min) ear training - learn and transcribe a song by ear
 
 :40 (10 min) site reading
-  :40 (10 min) - play a song from music w/o
 
-:50 (10 min) song practice
-  :50 (10 min) - learn a song by heart
-
-:60 end
+:50 (10 min) song practice - learn & perform a song by heart well
