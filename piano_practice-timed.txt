@@ -1,4 +1,4 @@
-timed piano practice - 7th draft
+timed piano practice - 8th draft
 -----------------------------------
 :00 (10 min) warm up + scale - stretch and breath before
   :00 ( 1 min) - weight lifting
@@ -19,7 +19,7 @@ timed piano practice - 7th draft
                DOM % 10 = chord type = O:7th 1:triad 2:dom7th 3:aug 4:4th
                                        5:dim 6:6th   7:sus4   8:2nd 9:9th
 
-  :16 ( 7 min) LH focus - chords for the day (song or blues)
+  :16 ( 7 min) LH focus - chords for the day (song or blues), circle of fifths
                DOY % 16 =
                 0 - LH/RH - sustain same triad chord
                 1 - LH play root, then other triad notes alternating
@@ -42,8 +42,8 @@ timed piano practice - 7th draft
                15 - LH/RH - 9th chords - LH 1-1 or 1-5, RH 3-5-7-9 or 3-7-9
 
 :23 ( 7 min) RH focus - improv + independence
-  :23 ( 7 min) DOY % 9 =
-                0 - RH - improv minor pentatonic
+  :23 ( 7 min) DOY % 10 =
+                0 - RH - improv pentatonic
                 1 - RH - rpt chord up the keyboard through inversions
                 2 - RH - improv a melodic theme
                 3 - RH - rpt chord up kybd invs w straddle
@@ -55,6 +55,7 @@ timed piano practice - 7th draft
                 7 - RH - rpt chord up kybd invs w 3/1 breakup
                          (alternate bottom note with top 3 for 4 note chords)
                 8 - RH - make a run out of the chord
+                9 - RH - improv blues - 1-3m-4-5b-5-7m
 
 :30 (10 min) ear training - learn and transcribe a song by ear
 
