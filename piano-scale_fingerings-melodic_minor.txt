@@ -1,6 +1,6 @@
 music   nodog   2015-09-17 updated 2017-10-30
 
-melodic minor - m7 dim(half-dim7) M7 m7 m7 M7 M(D7)       3 oct | contr | hanon
+melodic minor - mM7 M(D7) aug7 M(D7) M(D7) b5m7 dim7      3 oct | contr | hanon
                                                                 |       |
 --C--       C  D  Eb F  G  A  B  C                              |       |
        rh - 1, 2, 3, 1, 2, 3, 4, 1, 2, 3, 1, 2, 3, 4, 5         |       |
