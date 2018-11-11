@@ -1,4 +1,4 @@
-book notes   anderson   2017-05-22
+book notes   2017-05-22 -- 2018-09-04
 
 Book website with supporting material - https://thepracticeofpractice.com/book-extras/
 
@@ -62,7 +62,7 @@ Part 01 - What - What's Goin' On?
     - Take the time to fix any mistake immediately.
     - Be an active listener when practicing.
     - You need to be able to hear errors.
-    - If someone recognizes what you're playing, you're going to fast.
+    - "If someone recognizes what you're playing, you're going to fast."
     - Go slowly is the strategy. Listening for errors is the technique to be developed.
       - Practice just slowly enough to not make ANY mistakes. (This is the most important tip.)
       - Take the time to fix any mistake immediately.
@@ -90,9 +90,10 @@ Part 01 - What - What's Goin' On?
     - Embrace and explore the zone where you begin to fail, to expose your tendencies and fix them.
     - Aspects of failure:
       - The cause of the failure influences how or if you work toward a solution.
-      - How you feel about failure is linked to your beliefs about talent and intelligent.
+      - How you feel about failure is linked to your beliefs about talent and intelligence.
 
 Part 02 - Why - Motivation Station
+
   chap 06 - Motivation for Mastery
     - Your theories about talent shape your practice in a fundamental way, and even how you approach
       musical learning in the first place.
@@ -103,7 +104,7 @@ Part 02 - Why - Motivation Station
       - avoid challenges, because it shows you "don't have it,"
       - to give up more easily, because why bother if you're not talented?,
       - to see effort as negative, because it should come easily.
-    - If you believe that musical ability and talent air growable, the result of practice,
+    - If you believe that musical ability and talent are growable, the result of practice,
       then you tend to
       - seek challenges, because failing means learning,
       - keep trying, because you can learn to overcome,
@@ -142,7 +143,6 @@ Part 02 - Why - Motivation Station
   chap 08 - Ass Power
     Ass Power - The ability to sit your butt down in the chair and get to work,
       and the will power and commitment to keep your butt in the chair and get things done.
-
     Techniques to increase your ass power:
     - "When in doubt, leave it out."
       - Leave your instruments out and ready to play.
@@ -236,7 +236,7 @@ Part 03 - Who - The Who - The Self and Others in Practice
         in effort and change them.
         - This turns failure into a learning opportunity.
 
-  - chap 13 - Parental Units
+  chap 13 - Parental Units
     - Encourage young musicians to spend time with their instrument by giving them
       the freedom to do so. It is one of the most effective ways to support children
       learning music.
@@ -249,11 +249,11 @@ Part 03 - Who - The Who - The Self and Others in Practice
       for virtually all successful musicians.
     - Ecouragement is very different from enforcement.
     - Parents of successful musicians did whatever they could to make the
-      practice productive enjoyable.
+      practice productive and enjoyable.
     - Most parents are not in a place to be direct teachers as the beginner's
       skills increase.
 
-  - chap 14 - Hot for Teacher (private teachers (not necessarily formal))
+  chap 14 - Hot for Teacher (private teachers (not necessarily formal))
     - If you're not active in a learning situation, you probably won't get much
       out of it. This means that viewing the teacher as the active one in the
       learning situation is probably not most efficient. The best results come
@@ -263,18 +263,18 @@ Part 03 - Who - The Who - The Self and Others in Practice
       your musical future.
     - You are the consumer here and need to make sure that your teaching is meeting
       your needs.
-    - The current point in your musical development affects the kind of teach you need.
+    - The current point in your musical development affects the kind of teacher you need.
     - The individual attention is the most important point about these teachers.
       Students in private instruction perfomed 2 standard deviations better than
       those in classroom instruction.
     - Individual instruction can be direct demonstration of how to practice and
       this is effective.
     - Experts often did not show unusual promise at the start.
-      - It's not exception kids, but exception conditions which create experts.
+      - It's not exceptional kids, but exceptional conditions which create experts.
       - One of those exceptional conditions involves great teachers.
       - Exceptional teachers tell the student exactly what's good and bad
         straight up and how to fix it, either directly or by example.
-    - 3 stages of learning exist and for each stage a different kind of teacher
+    - 3 phases of learning exist and for each phase a different kind of teacher
       is required
       - Phase 1 teachers - First teachers are often located nearby for convenience.
         They create playful experiences, encourage fun, and are ethusiastic. They
@@ -286,21 +286,21 @@ Part 03 - Who - The Who - The Self and Others in Practice
         like performances and competitions. They connect students with other
         musicians who play the same instrument, sometimes professionals or expert
         instructors. These teachers are more critical, rational, and systematic
-        in their feedback than previous teachers. The student desired tips, tricks,
+        in their feedback than previous teachers. The student desires tips, tricks,
         and pointers to play better. The relationship changed from fondness to
         respect and admiration.
       - Phase 3 - The personal relationship with the teacher was no longer
         important. Now, it's all about the music, and the shared dedication to the
-        are of performing.  Teaching is focused on real-world examples. The
+        art of performing.  Teaching is focused on real-world examples. The
         students perform these for the teachers, then the teachers provide
         higher-level feedback on expression subtle nuances of style with little
         or no time spent on technical aspects or music theory.
     - A great teacher can help you carve years off your practice time by showing
       you strategies and techniques that you probably won't discover on your own.
     - Teachers are everywhere when you adopt the mindset of a voracious learner.
-    - Those can do. Those who do and understand teach.
+    - Those, who can, do. Those, who do and understand, teach.
 
-  - chap 15 - Under Pressure
+  chap 15 - Under Pressure
     - Peer pressure can be a strong positive influence on your practice.
     - We are emotionally connected to a desire to do well.
     - It comes from people we care about and don't want to disappoint.
@@ -316,7 +316,7 @@ Part 03 - Who - The Who - The Self and Others in Practice
           go if you practiced alone in a room.
     - Music making is fundamentally a social activity. Before the invention of
       recording and radio technology, people had to make music themselves.
-      - It is the lack of social interaction that takes place is the classical
+      - It is the lack of social interaction that takes place in the classical
         music practice room that is rejected by many other musicians.
       - Learning with others is fun and meaningful, ex jam sessions and cutting
         contests.
@@ -330,126 +330,117 @@ Part 03 - Who - The Who - The Self and Others in Practice
 Part 04 - Time is on Your Side - When
 
   10000 hour rule is a red herring. What's important is not the hours of
-  practice, but the kind of hours in your practice.
-
-  Temporal aspects of importance:
+    practice, but the kind of hours in your practice.
+  Temporal aspects of practice:
     time of day,
     length of practice session, and
     how practice skills develop over time.
 
   chap 16 - The day is long, but time is short.
-
-  - Published research suggests that mornings are best for practice.
-    - You're fresh mentally and physically and powers of concentration are at
-      their peak.
-    - Often gives you something musical to think about the rest of the day.
-      Writing down something to think about on a notecard for the day can
-      enhance this. This technique can be especially helpful if you have a
-      morning and evening practice session, as you've been prepping for the
-      evening session all day.
-    - This is the preferred practice time for many expert and professional
-      musicians.
-  - What time of day you practice may be less important than how quickly the
-    practice session is followed by sleep.
-    - Early music practice followed by an afternoon nap is extremely
-      effective.
+    - Published research suggests that mornings are best for practice.
+      - You're fresh mentally and physically and powers of concentration are at
+        their peak.
+      - Often gives you something musical to think about the rest of the day.
+        Writing down something to think about on a notecard for the day can
+        enhance this. This technique can be especially helpful if you have a
+        morning and evening practice session, as you've been prepping for the
+        evening session all day.
+      - This is the preferred practice time for many expert and professional
+        musicians.
+    - What time of day you practice may be less important than how quickly the
+      practice session is followed by sleep.
+      - Early music practice followed by an afternoon nap is extremely
+        effective.
 
   chap 17 - How much is enough?
-  - Most research says that practicing 2 or 4 hours a day is the maximum
-    benificial time. BUT that is for master musicians at the height of their
-    careers. They are very efficient practicers.
-  - Musicians talk about getting that which took 6 hours of work in their early
-    career done in an hour now.  They know themselves and their tendencies well
-    enough that they know what they need to focus in on to get better faster.
-  - Sometimes musicians are hit by a need to do nothing but practice for years.
-    This is called a "reverie" or a "drive to master." If it hits you and you
-    have the time for it, GO!
-  - For the rest of us, just make sure you put in as many hours as you are
-    driven to. It's continuing the drive and the passion that's most important.
-    Focus on making those practice hours efficient, quality practice.
-  - Getting better is a long, slow process. Beware of injury, both physical and
-    psychological, which might prevent you from practicing. Psychological injury
-    might be thinking that you're not getting better, trying something too far
-    above your level and getting discouraged, or overdoing practice so that it
-    feels like drudgery.
-  - Overpractice risks:
-    - Just getting tired of the piece by playing it too many times.
-    - Becoming so prepared that your mind starts playing tricks.
-  - One way to get around these risks is to focus on only the most difficult
-    portions of the piece.
-  - Break it up. -- Evidence suggests that spreading out a learning task will help you learn it
-    more quickly, so several short sessions over multiple days is better than
-    one intense session each week.  Two sessions each day is better than one
-    session each day, even if the total time is the same.
-  - Beware injury -- Many musicians have had to add physical exercise, yoga, etc
-    to their practice or relearn how to play, sometimes taking years, in order
-    to avoid the repetitive injury associated with playing a musical instrument.
-  - Find other ways to practice instead of just sitting down with the
-    instrument. - Listening, watching, talking about, and thinking about music
-    are all examples. Watch a documentary, go to an open mic, pick up another
-    instrument, and watch youtube.
-  - Practice is a way of life, not an activity you do for a certain amount of
-    time. This lets you use minutes throughout the day to practice and allows
-    music to be a daily focus, even when you may not be able to sit with your
-    instrument as long as you like.
+    - Most research says that practicing 2 or 4 hours a day is the maximum
+      benificial time. BUT that is for master musicians at the height of their
+      careers. They are very efficient practicers.
+    - Musicians talk about getting that which took 6 hours of work in their early
+      career done in an hour now.  They know themselves and their tendencies well
+      enough that they know what they need to focus in on to get better faster.
+    - Sometimes musicians are hit by a need to do nothing but practice for years.
+      This is called a "reverie" or a "drive to master." If it hits you and you
+      have the time for it, GO!
+    - For the rest of us, just make sure you put in as many hours as you are
+      driven to. It's continuing the drive and the passion that's most important.
+      Focus on making those practice hours efficient, quality practice.
+    - Getting better is a long, slow process. Beware of injury, both physical and
+      psychological, which might prevent you from practicing. Psychological injury
+      might be thinking that you're not getting better, trying something too far
+      above your level and getting discouraged, or overdoing practice so that it
+      feels like drudgery.
+    - Overpractice risks:
+      - Just getting tired of the piece by playing it too many times.
+      - Becoming so prepared that your mind starts playing tricks.
+    - One way to get around these risks is to focus on only the most difficult
+      portions of the piece.
+    - Break it up. -- Evidence suggests that spreading out a learning task will help you learn it
+      more quickly, so several short sessions over multiple days is better than
+      one intense session each week.  Two sessions each day is better than one
+      session each day, even if the total time is the same.
+    - Beware injury -- Many musicians have had to add physical exercise, yoga, etc
+      to their practice or relearn how to play, sometimes taking years, in order
+      to avoid the repetitive injury associated with playing a musical instrument.
+    - Find other ways to practice instead of just sitting down with the
+      instrument. - Listening, watching, talking about, and thinking about music
+      are all examples. Watch a documentary, go to an open mic, pick up another
+      instrument, and watch youtube.
+    - Practice is a way of life, not an activity you do for a certain amount of
+      time. This lets you use minutes throughout the day to practice and allows
+      music to be a daily focus, even when you may not be able to sit with your
+      instrument as long as you like.
 
   chap 18 - Guerilla Practice
-
-  - There is some research suggesting that breaking up a memorization task into
-    multiple short sessions spread at random intervals can lead to better
-    retention than regularly spaced sessions.
-  - Guerilla practice is the technique of breaking up practice into multiple
-    short (1-20 min) sessions with specific micro- or nano-goals. These short
-    sporadic stessions lead to results when waiting to get in a longer session
-    may not, and may even be better than the longer sessions for retention.
-  - Short sporadic sessions also fit in as a break from other activities,
-    especially when the instrument and player are already prepared (guitar out
-    and tuned, goals decided beforehand, etc.)
+    - There is some research suggesting that breaking up a memorization task into
+      multiple short sessions spread at random intervals can lead to better
+      retention than regularly spaced sessions.
+    - Guerilla practice is the technique of breaking up practice into multiple
+      short (1-20 min) sessions with specific micro- or nano-goals. These short
+      sporadic sessions lead to results when waiting to get in a longer session
+      may not, and may even be better than the longer sessions for retention.
+    - Short sporadic sessions also fit in as a break from other activities,
+      especially when the instrument and player are already prepared (guitar out
+      and tuned, goals decided beforehand, etc.)
 
   chap 19 - When no practice is good practice
-
-  - There is research whch suggests that taking half of your practice time and
-    listening to music that you're trying to learn while doing other tasks may
-    actually be MORE effective than just practicing the whole time.
-  - This could simply be that you practice your normal amount, then use other
-    time when you cannot practice to listen in the background.
+    - There is research whch suggests that taking half of your practice time and
+      listening to music that you're trying to learn while doing other tasks may
+      actually be MORE effective than just practicing the whole time.
+    - This could simply be that you practice your normal amount, then use other
+      time when you cannot practice to listen in the background.
 
   chap 20 - Blame It on My Youth
-
-  - Four phases of awareness which affect your practice
-    - Unconscious Incompetence - bad, but don't know it. Don't have skill to
-      percieve your mistakes.
-      - This phase is fun, because you're learning your instrument, but are
-        unaware of how much you don't know.
-    - Conscious Incompetence - You become aware that you're not that good and
-      you have a lot of practicing and learning to do.
-      - This is the longest, most stressful, and unpleasant phase, unfortunately.
-      - Remaining motivated during this phase is about setting realistic goals,
-        and is crucial to continuing to play and practice.
-      - Avoiding the trap of perfectionism is important. Competence is relative,
-        as your abilities are probably several levels above someone else's also
-        in this phase.
-    - Conscious Competence - You can achieve success at playing music by your
-      own standards.
-      - This phase can be dipped into early and often with reasonable goal
-        setting.
-
-    At some point, you have to own both your competence and incompetence. The
-    transition between conscious incompetence and conscious competence is not a
-    step function. You move forward in different areas at different rates.
-
-    - Unconscious Competence - You can play music without worrying about all of
-      the rules that you know inherently. Most musicians will not get to this
-      stage. This is inhabited by the best of musicians.
-      - This can be likened to having a great, easy-flowing conversation with an
-        old friend. It just flows without having to think about the specifics of
-        syntax, grammar, phrasing, etc.
-
-    - Pushing aside or ignoring the trap of Conscious Incompetence is important
-      to foster a lifetime of musicmaking. You *will* get better.
+    - Four phases of awareness which affect your practice
+      - Unconscious Incompetence - bad, but don't know it. Don't have skill to
+        percieve your mistakes.
+        - This phase is fun, because you're learning your instrument, but are
+          unaware of how much you don't know.
+      - Conscious Incompetence - You become aware that you're not that good and
+        you have a lot of practicing and learning to do.
+        - This is the longest, most stressful, and unpleasant phase, unfortunately.
+        - Remaining motivated during this phase is about setting realistic goals,
+          and is crucial to continuing to play and practice.
+        - Avoiding the trap of perfectionism is important. Competence is relative,
+          as your abilities are probably several levels above someone else's also
+          in this phase.
+        - Pushing aside or ignoring the trap of Conscious Incompetence is important
+          to foster a lifetime of musicmaking. You *will* get better.
+      - Conscious Competence - You can achieve success at playing music by your
+        own standards.
+        - This phase can be dipped into early and often with reasonable goal
+          setting.
+        - At some point, you have to own both your competence and incompetence. The
+          transition between conscious incompetence and conscious competence is not a
+          step function. You move forward in different areas at different rates.
+      - Unconscious Competence - You can play music without worrying about all of
+        the rules that you know inherently. Most musicians will not get to this
+        stage. This is inhabited by the best of musicians.
+        - This can be likened to having a great, easy-flowing conversation with an
+          old friend. It just flows without having to think about the specifics of
+          syntax, grammar, phrasing, etc.
 
   chap 21 - When I'm 64
-
     - Research is proving that our ability to learn new things continues
       throughout life, because the brain retains its plasticity.
     - Take your time - it takes more time for the brain to grow new neurons as
@@ -474,67 +465,62 @@ Part 04 - Time is on Your Side - When
 Part 05 - Where - Wherever You May Roam - Practice Spaces and Places
 
   There are 2 aspects to the where of practice:
-  - the cultural and local context including attitudes and opportunities, and
-  - the actual practice space itself, though the psychological is more important
-    than the physical.
+    - the cultural and local context including attitudes and opportunities, and
+    - the actual practice space itself, though the psychological is more important
+      than the physical.
 
   chap 22 - Trash to Treasure
-
-  - The lives are exceptional performers are not a result of exceptional
-    individuals, but exceptional circumstances.
-  - Where you live and who you are surrounded by matters.
+    - The lives of exceptional performers are not a result of exceptional
+      individuals, but exceptional circumstances.
+    - Where you live and who you are surrounded by matters.
 
   chap 23 - Under the Influence
-
-  - entrainment - the tendency of things to vibrate at the same frequency
-  - Psychological entrainment can have an impact on your practice.
-  - If you are in a location where you have peers and like-minded people, it
-    can support your musical journey.
+    - entrainment - the tendency of things to vibrate at the same frequency
+    - Psychological entrainment can have an impact on your practice.
+    - If you are in a location where you have peers and like-minded people, it
+      can support your musical journey.
 
   chap 24 - In the Zone
-
-  - The Zone of Proximal Development (ZPD) is the distance between capability as an individual
-    and capability under guidance of adult, teacher, or peer supervision.
-  - One can also use scaffolds to increase one's abilities. Scaffolds in this
-    context are tools that one uses to improve one's capabilities. An example is
-    using a chord chart when one hasn't memorized the piece of music.
-  - Fading is the process of slowly internalizing the scaffolds and removing
-    them.
-  - A good teacher can help you in the ZPD by recognizing your level, giving you
-    the right scaffolds, and look for ways to slowly ween you from them. Ways
-    how:
-    - Gain and maintain your interest in the task.
-    - Simplify the task.
-    - Emphasize aspects of the task that will help you get it.
-    - Help you control your level of frustration.
-    - Demonstrate the task.
-    - Play along when necessary.
-  - You can bootstrap yourself into the ZPD.
-    - videos
-    - metronomes
-    - suggestions is the "how" portion of this book
-    - try to do what the teachers do from above
-    - mental practice strategies
-      - self-talk
-      - talk through a tough spot
-  - Play with musicians who are better than you to get some ZPD help.
+    - The Zone of Proximal Development (ZPD) is the distance between capability as an individual
+      and capability under guidance of adult, teacher, or peer supervision.
+    - One can also use scaffolds to increase one's abilities. Scaffolds in this
+      context are tools that one uses to improve one's capabilities. An example is
+      using a chord chart when one hasn't memorized the piece of music.
+    - Fading is the process of slowly internalizing the scaffolds and removing
+      them.
+    - A good teacher can help you in the ZPD by recognizing your level, giving you
+      the right scaffolds, and look for ways to slowly ween you from them. Ways
+      how:
+      - Gain and maintain your interest in the task.
+      - Simplify the task.
+      - Emphasize aspects of the task that will help you get it.
+      - Help you control your level of frustration.
+      - Demonstrate the task.
+      - Play along when necessary.
+    - You can bootstrap yourself into the ZPD.
+      - videos
+      - metronomes
+      - suggestions is the "how" portion of this book
+      - try to do what the teachers do from above
+      - mental practice strategies
+        - self-talk
+        - talk through a tough spot
+    - Play with musicians who are better than you to get some ZPD help.
 
   chap 25 - A Shed of One's Own
+    - There are two kinds of privacy that one's own practice room will give:
+      - inward - the knowledge that no one can hear you, allowing freedom from judgement
+      - outward - the knowledge that no one will be annoyed by your playing
 
-  - There are two kinds of privacy that one's own practice room will give:
-    - inward - the knowledge that no one can hear you, allowing freedom from judgement
-    - outward - the knowledge that no one will be annoyed by your playing
-
-    - Seek out a practice space that allows you both so that you can be free to
-      really practice.
-    - Practice spaces can be found for rent, or you might have to be inventive
-      to find one for yourself. Sonny Rollins played on the Williamsburg bridge
-      for 3 years to improve his chops.
+      - Seek out a practice space that allows you both so that you can be free to
+        really practice.
+      - Practice spaces can be found for rent, or you might have to be inventive
+        to find one for yourself. Sonny Rollins played on the Williamsburg bridge
+        for 3 years to improve his chops.
 
 Part 06 - Let's Get It On - Useful Practice Strategies - How
 
   Three parts : setup, execution, and assessment
-
   Remember the difference between a strategy and a technique:
     A strategy is and idea that anyone can use.
     A technique is the skill you need to get the most out of a strategy.
@@ -543,55 +529,45 @@ Part 06 - Let's Get It On - Useful Practice Strategies - How
     - Infusing creativity into your practice can engage you in practice in a way
       that makes it so much fun, it may not feel like practice. This is the best
       practice.
-
     - Ex - learning scales
       - Instead of learning patterns dictated by others, invent and create your
         own patterns through the scales. Start at the top. Don't go evenly
         spaced. Whatever interesting way you can learn the scale.
-
     - Creating your own exercises engages one more and gets better results in less time.
     - Retune your instrument. Create exercises specific to problems you're having.
     - Need to change the warmup daily. (Foundation for the warmup is the music
       of the day. Ex - drones in the key of the day's music.)
-
     - Creative strategies:
       - Constrain yourself somehow.
         - As abstract as "play the color yellow."
         - As concrete and specific as "only short notes in the key of E harmonic minor."
-
-    - Fear anD apathy are the mindkillers.
+    - Fear and apathy are the mindkillers.
       - Maintain play; get silly! - Can help you break through blocks.
       - Same thing day after day can be made less tedious by trying to do it from a new
         perspective. This makes it a new experience.
-
     - Get two-faced.
       - Janusian thinking. - Looking at a problem from opposing viewpoints.
         - Play a passage backwards.
         - Play a passage upside-down.
         - Play a passage in a very different style.
-
     - Distance makes the heart grow creative.
       - Imagine a problem is something everyone encounters and it's your job to find a
         solution to help others. Your techniques are to be put into a book or video.
       - A study showed that this can lead to more creative ideas.
       - Temporal distance can also boost creativity. How would your future self handle
         this problem 1 year from now?
-
     - What would Dizzy do?
       - Imagining how someone else might tackle a problem can boost creativity.
       - Imagine yourself as another person can give access to superior abilities, too.
-
     - Getting together with another person regularly can also help out with creativity.
-
     - Creativity is like a muscle exercise it to get better at it.
     - Use creativity to connect with your practice more. You'll get more out of practice.
       - Both engagement and enjoyment will sustain practice for the long haul.
 
   chap 27 - Practice Anatomy 101
     - How the best players get the most out of a practice session.
-
     - To get the most out of a session, you need focus.
-      Setup: Use setup to get that focus.
+      - Setup: Use setup to get that focus.
       - Privacy: Need privacy to be able to focus.
         - Best if you limit phone and computer use during practice.
       - Simple: Pick just one thing for a practice session.
@@ -600,23 +576,23 @@ Part 06 - Let's Get It On - Useful Practice Strategies - How
         - Before you start, figure out what the tough stuff is.
         - Write these down at first in order to get practiced at this.
         - Don't waste your time on what you already know how to play.
-      Execution: Warming up, exercises, and playing
-      - Warm up around what you're going to be playing.
-      - Do exercises which improve your ability to play.
-      - Play the section you're working on.
-      Assessment: How did it go?
-      - What did you do?
-      - What worked and what didn't?
-      - Write it down, if that helps.
-      - Review the practice session and prep for the next session.
-        Prime the pump for next session.
+      - Execution: Warming up, exercises, and playing
+        - Warm up around what you're going to be playing.
+        - Do exercises which improve your ability to play.
+        - Play the section you're working on.
+      - Assessment: How did it go?
+        - What did you do?
+        - What worked and what didn't?
+        - Write it down, if that helps.
+        - Review the practice session and prep for the next session.
+        - Prime the pump for next session.
 
   chap 28 - Stare with your Ears
     - Intricate/active/deep listening takes practice.
     - Listening as a musician is an active process; you're fully engaged in the experience.
     - The way a musician listens to music is both more intense and more purposeful than
       the way normal people listen to music, especially when listening to music you want
-      to learn..
+      to learn.
     - "Hear" training
       - The ability to hear what's going on and reproduce it.
       - Singing is a form of embodied cognition, and is integral to this.
@@ -827,5 +803,123 @@ Part 06 - Let's Get It On - Useful Practice Strategies - How
     - Composing is a skill to be learned like any other.
 
   chap 39 - Plays Well With Others
-  
+    - You can do so much on your own now, but doing it with others is much more fun!
+    - Find locations where you're encouraged to bring your instrument and join in, like
+      campfire jams at a festival. A ton of teaching, learning, and practice takes place.
+    - Practice doesn't always take place alone in a room.
+    - Practice for some is a private issue, but, if not, sharing about practice can be incredible.
+    - Group practice with 2 people can be the most focused.
+      - Working on a specific skill, slowly, and with lots of repetition, and figuring things out.
+    - Questions for others:
+      - How do you practice [fill in the blank]?
+      - What are you working on?
+      - Here's what I'm working on. Any thoughts?
+      - I'm having trouble with [fill in the blank]. How do you deal with that?
+      - How do you work on tone?
+      - How do you work on speed?
+      - How do you work on expression?
+      - How do you place your mics and tweak your amps to get the best sound?
+      - What kind of [insert gear here] do you use and why?
+      - Can you show me a favorite song or lick?
+    - Bouncing ideas off of others can go a long way toward clarifying your next steps.
+    - Practicing with other people can be much more enjoyable than practicing alone.
 
+  chap 40 - Cover Your Assessment
+    - You can't always rely on an audience to give a reliable assessment of how your practice
+      is working.
+    - The best practicers are assessing their practice all the time.
+    - Assessment is necessary to see progress and improvement, identify weaknesses, plan
+      improvement strategies, and realign goals.
+    - Many have personal differences with competiiton as a part of music, but many find musical
+      competitions as a great source of motivation to practice.
+    - What should you be assessing in your practice? (Lionel Hampton Competition rubrick)
+      - In tune - Strong, clear pitch center in tune with other instruments in the group.
+      - In tone - The quality of sound is full and in character with the instrument and genre.
+      - In time - Rhythmic pulse is strong and steady and the rhythmic feel is genre appropriate.
+      - Precision - The playing is technically precise, cohesive, blended, and balanced with the other voices.
+      - Dynamics and Expression - expressive and appropriately dynamically varied
+      - Style and Interpretation - articulations, phrasing, originality, and feel are all genre appropriate.
+      - Soloing - Does the improvisation create melodic material that reflects and enhances the piece?
+    - If ever asking someone for feedback, be sure to suggest what they should be listening for.
+    - Self-assessment:
+      - Record yourself:
+        - For instruments in contact with the body, often the sound produced is different than the
+          sound heard when playing the instrument, due to bone conduction.
+        - The amount of attention one can bring to bear when playing is different than when listening.
+          - You'll hear things when listening you can't notice when making the music.
+      - Equipment:
+        - Audacity recording and playback
+        - Heard app
+        - Coach's Eye - notated video and audio
+        - Garage Band - app or program
+        - Spectre Sound Analysis
+    - The most important aspect of assessment is clear, easily reached goals.
+      - These let you know what to assess.
+
+  chap 41 - You and the Night and the Music
+    - Many experiments show that sleep helps you learn and prepare to learn.
+    - Sleep helps to empty toxins  from the brain so incoming signals can be processed.
+    - Most professional musicians nap in the afternoon after their main practice session.
+    - The stages of sleep can affect what you learn best.
+      - stage 1 - 2-5 min - falling asleep - happens once
+        - linear, rational thought breaks down
+      - The rest of the stages cycle at about a 90 min period.
+        - stage 2 - 20 min
+          - good for
+            - learning physical movements (motor memory) or procedural memory
+            - implicit memory
+        - stage 3 and 4 - varies - delta/slow wave sleep
+          - growth hormone increases to repair body tissus, and brain activity decreases
+          - good for
+            - declarative memory (things consciously learned: scales, melodies, music theory, etc)
+        - stage 5 - increases over the night - REM sleep
+          - blood flow increased
+          - good for
+            - improvement of memory
+            - moving short term memory to long term memory
+            - emotional memory
+            - boost in creativity and sensory perceptions (pitch id, note reading, etc)
+          - evidence that it helps with music learning
+    - types of naps
+      - guilt-free power nap - 5-20 min
+        - too short for stage 2, but can clean out for incoming messages
+      - goldilocks nap - 30-90 min
+        - can get to stage 2 and 3 and if well timed, some REM sleep
+      - the weekend nap - 90-180 min
+    - tips to get the most out of napping
+      - timing - b/w main practice and later sessions
+        - allows sleeping brain to consolidate and also wipes the slate clean
+        - morning naps tend to have more REM
+        - afternoon tend to have more stage 3
+      - Nap in 90 min increments, though short naps are still helpful (5 min is shortest helpful length).
+      - Delete distractions. - Turn off devices and be in a safe place in a prone position.
+      - Progressively relax starting at the toes and move up.
+      - It is best to wake up slowly. Sleep in a lighter room to wake up easily.
+
+  chap 42 - Performance Practice
+    - How do you get better?
+    - Performance can be the best way to get better.
+      - Play anywhere, everywhere, and as much as possible.
+      - Play play play.
+    - What about performance is so helpful?
+      - School music makes performance rare and special events with lots of stress.
+        - 3-4 performances a year.
+    - Performance is practice of a special kind.
+      - Demanding performance
+      - Like a test
+        - Retrieving skills from memory
+      - Embrace the nervousness.
+    - Ask your friends to come in and play for them.
+    - Imagine performing while practicing.
+      - Practice performing.
+
+  Coda
+    - Overthinking practice is easy to do.
+    - Better to think a lot about it than not at all.
+    - Talent is earned by diligence and practice.
+      - Talent is practice in disguise.
+    - Seek out other sources.
+    - Good practice is all about working on something that you can't do.
+    - Practice is often fun, but it's not easy.
+      - Don't label something as difficult, just unfamiliar.
+      - Practice becomes about making the unfamiliar familiar.

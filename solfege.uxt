@@ -6,11 +6,20 @@ Do Di/Ra Re Ri/Me Mi Fa Fi/Se Sol Si/Le La Te Ti Do
 major
 Do Re Mi Fa Sol La Ti Do Re Mi Fa Sol La Ti Do
 
-minor
+aolean (natural minor)
 Do Re Me Fa Sol Le Te Do Re Me Fa Sol Le Te Do
 
 minor harmonic
 Do Re Me Fa Sol Le Ti Do Re Me Fa Sol Le Ti Do
+
+dorian
+Do Re Me Fa Sol La Te Do Re Me Fa Sol La Te Do
+
+mixolydian
+Do Re Mi Fa Sol La te Do Re Mi Fa Sol La te Do
+
+lydian
+Do Re Mi Fi Sol La Ti Do Re Mi Fi Sol La Ti Do
 
 blues (from guitar)
 Do Me Fa Se Sol Te Do Me Fa Se Sol Te Do
