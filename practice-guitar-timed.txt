@@ -1,33 +1,36 @@
-timed guitar practice - draft 6
+timed guitar practice - draft 7 - 2018-11-22
 -----------------------------------
 untimed - stretch and breath
 untimed - tune up
 
-:00 (5 min) warm up scale
+key and scale of day from my_music_day
 
-  :00 ( 2 min) - DOY % 5 = scale form
-  :02 ( 3 min) - 7-8-9-10 finger stretch exercise
+5 min - warm up scale - metronome or name notes
+  - up each string
+  - each hand position across fretboard
+  - spider
+  - scale skips up, all notes down
 
-:05 (3 min) chord form practice
-  :05 (3 min) - strum-pick-strum on chords
-              - B7 E E7 A A7 D D7 G G7 C C7 F Fmaj7
-                Em Am Dm
+5 min - scale practice - metronome or name notes
 
-:08 (5 min) 1 min changes
-  :08 (5 min) - 1 min change app w/air changes
+5 min - chord form practice - metronome
+  - strum-pick-strum on open chords
+    - B7 E E7 A A7 D D7 G G7 C C7 F Fmaj7 Em Am Dm
+  - 1 min changes
+    - 1 min change app w/air changes
 
-:13 (5 min) family song practice - include rhythm
-  :13 (5 min) - family time song practice
-              - include rhythm
-                - D   D   D   D
-                - D   D   D U D
-                - D   D   D U D U
-                - D   D U D U D
-
-:18 (5 min) barre chords - include rhythm
-  :18 (5 min) - common barre chords E, A-form
+5 min - barre chords - include rhythm - metronome
+  - common barre chords E, A-form
               - include rhythm
 
-:23 - end
+10 min - sight reading
+
+30 min playing - split if you want
+  - music class material
+  - along with radio
+  - repertoire
+  - loop pedal
+  - play along tracks/irealpro
+  - improvising
 
 TAP YOUR FOOT!

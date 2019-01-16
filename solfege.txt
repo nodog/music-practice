@@ -11,7 +11,8 @@ harmonic minor
 Do Re Me Fa Sol Le Ti Do Re Me Fa Sol Le Ti Do
 
 melodic minor
-Do Re Me Fa Sol Le Ti Do Re Me Fa Sol Le Ti Do
+Do Re Me Fa Sol La Ti Do Re Me Fa Sol La Ti Do
+Do Te Le Sol Fa Me Re Do Te Le Sol Fa Me Re Do
 
 dorian
 Do Re Me Fa Sol La Te Do Re Me Fa Sol La Te Do
@@ -22,6 +23,9 @@ Do Re Mi Fa Sol La Te Do Re Mi Fa Sol La te Do
 lydian
 Do Re Mi Fi Sol La Ti Do Re Mi Fi Sol La Ti Do
 
+lydian b7
+Do Re Mi Fi Sol La Te Do Re Mi Fi Sol La Te Do
+
 blues (from guitar)
 Do Me Fa Se Sol Te Do Me Fa Se Sol Te Do
 
@@ -31,4 +35,4 @@ Do Me Fa Se Sol Te Do Me Fa Se Sol Te Do
 -7b5 - Do Me Se  Te
 °7   - Do Me Se  La
  6   - Do Mi Sol La
--6   - Do Me Sol Le
+-6   - Do Me Sol La
