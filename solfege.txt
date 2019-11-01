@@ -17,14 +17,17 @@ Do Te Le Sol Fa Me Re Do Te Le Sol Fa Me Re Do
 dorian
 Do Re Me Fa Sol La Te Do Re Me Fa Sol La Te Do
 
-mixolydian
-Do Re Mi Fa Sol La Te Do Re Mi Fa Sol La te Do
-
 lydian
 Do Re Mi Fi Sol La Ti Do Re Mi Fi Sol La Ti Do
 
 lydian b7
 Do Re Mi Fi Sol La Te Do Re Mi Fi Sol La Te Do
+
+mixolydian
+Do Re Mi Fa Sol La Te Do Re Mi Fa Sol La te Do
+
+locrian
+Do Ra Me Fa Se Le Te Do Ra Me Fa Se Le Te Do 
 
 blues (from guitar)
 Do Me Fa Se Sol Te Do Me Fa Se Sol Te Do
